@@ -134,3 +134,8 @@ docs/source/generated
 
 # Operating system
 .DS_Store
+
+# archive
+*.zip
+*.tar.gz
+*.7z
